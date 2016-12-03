@@ -1,0 +1,9 @@
+C:\Programming\C# Programs\Personal\RNGCrypt\RNGCrypt\bin\Debug\RNGCrypt.exe.config
+C:\Programming\C# Programs\Personal\RNGCrypt\RNGCrypt\bin\Debug\RNGCrypt.exe
+C:\Programming\C# Programs\Personal\RNGCrypt\RNGCrypt\bin\Debug\RNGCrypt.pdb
+C:\Programming\C# Programs\Personal\RNGCrypt\RNGCrypt\obj\Debug\RNGCrypt.csprojResolveAssemblyReference.cache
+C:\Programming\C# Programs\Personal\RNGCrypt\RNGCrypt\obj\Debug\RNGCrypt.exe
+C:\Programming\C# Programs\Personal\RNGCrypt\RNGCrypt\obj\Debug\RNGCrypt.pdb
+C:\Programming\Git_Stuff\RNGCrypt\RNGCrypt\bin\Debug\RNGCrypt.exe.config
+C:\Programming\Git_Stuff\RNGCrypt\RNGCrypt\obj\Debug\RNGCrypt.exe
+C:\Programming\Git_Stuff\RNGCrypt\RNGCrypt\obj\Debug\RNGCrypt.pdb
